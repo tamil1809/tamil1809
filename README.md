@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tamilan Subramani
-- 👀 I’m interested in Crickrt, Online chess, music and coding
+- 👀 I’m interested in Cricket, Online chess, music and coding
 - 🌱 I’m currently learning DataStructure and algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail @ tamils1809@outlook.com
